@@ -54,7 +54,7 @@ const COLLECTION = [{
 
 {
     name: 'VIRTUS.PRO',
-    logo: './logo/6600px-Virtus.pro_2019_allmode.png',
+    logo: './logo/600px-Virtus.pro_2019_allmode.png',
     country: 'Russia',
     T1trophies: 7,
     coach: 'Dastan "dastan" Akbayev',
