@@ -1,6 +1,6 @@
 const COLLECTION = [{
     name: 'TEAM VITALITY',
-    logo: 'https://liquipedia.net/commons/images/thumb/5/55/Team_Vitality_2021_allmode.png/600px-Team_Vitality_2021_allmode.png',
+    logo: './logo/600px-Team_Vitality_2021_allmode.png',
     country: 'France',
     T1trophies: 5,
     coach: 'Rémy "XTQZZZ" Quoniam',
@@ -9,7 +9,7 @@ const COLLECTION = [{
 
 {
     name: 'NATUS VINCERE',
-    logo: 'https://liquipedia.net/commons/images/thumb/3/3f/Natus_Vincere_2021_lightmode.png/600px-Natus_Vincere_2021_lightmode.png',
+    logo: './logo/600px-Natus_Vincere_2021_lightmode.png',
     country: 'Ukraine',
     T1trophies: 9,
     coach: 'Andrii "B1ad3" Gorodenskyi',
@@ -18,7 +18,7 @@ const COLLECTION = [{
 
 {
     name: 'GAMBIT',
-    logo: 'https://liquipedia.net/commons/images/thumb/6/68/Gambit_2020.png/600px-Gambit_2020.png',
+    logo: './logo/600px-Gambit_2020.png',
     country: 'Russia',
     T1trophies: 5,
     coach: 'Ivan "F_1N" Kochugov',
@@ -27,7 +27,7 @@ const COLLECTION = [{
 
 {
     name: 'G2',
-    logo: 'https://liquipedia.net/commons/images/thumb/d/d3/G2_Esports_2019_lightmode.png/600px-G2_Esports_2019_lightmode.png',
+    logo: './logo/600px-G2_Esports_2019_lightmode.png',
     country: 'Europe',
     T1trophies: 4,
     coach: 'Damien "maLeK" Marcel',
@@ -36,7 +36,7 @@ const COLLECTION = [{
 
 {
     name: 'HEROIC',
-    logo: 'https://liquipedia.net/commons/images/thumb/f/ff/Heroic_2019.png/600px-Heroic_2019.png',
+    logo: './logo/600px-Heroic_2019.png',
     country: 'Danemark',
     T1trophies: 2,
     coach: 'N/A',
@@ -45,7 +45,7 @@ const COLLECTION = [{
 
 {
     name: 'FAZE CLAN',
-    logo: 'https://liquipedia.net/commons/images/thumb/4/40/FaZe_Clan_2018_lightmode.png/600px-FaZe_Clan_2018_lightmode.png',
+    logo: './logo/600px-FaZe_Clan_2018_lightmode.png',
     country: 'Europe',
     T1trophies: 7,
     coach: 'Robert "RobbaN" Dahlström',
@@ -54,7 +54,7 @@ const COLLECTION = [{
 
 {
     name: 'VIRTUS.PRO',
-    logo: 'https://liquipedia.net/commons/images/thumb/c/c0/Virtus.pro_2019_allmode.png/600px-Virtus.pro_2019_allmode.png',
+    logo: './logo/6600px-Virtus.pro_2019_allmode.png',
     country: 'Russia',
     T1trophies: 7,
     coach: 'Dastan "dastan" Akbayev',
@@ -63,7 +63,7 @@ const COLLECTION = [{
 
 {
     name: 'ASTRALIS',
-    logo: 'https://liquipedia.net/commons/images/thumb/b/b5/Astralis_2020_full_allmode.png/600px-Astralis_2020_full_allmode.png',
+    logo: './logo/600px-Astralis_2020_full_allmode.png',
     country: 'Danemark',
     T1trophies: 19,
     coach: 'Danny "zonic" Sørensen',
@@ -72,7 +72,7 @@ const COLLECTION = [{
 
 {
     name: 'NIP',
-    logo: 'https://liquipedia.net/commons/images/thumb/9/9f/Ninjas_in_Pyjamas_2021.png/600px-Ninjas_in_Pyjamas_2021.png',
+    logo: './logo/600px-Ninjas_in_Pyjamas_2021.png',
     country: 'Sweden',
     T1trophies: 7,
     coach: 'Björn "THREAT" Pers',
@@ -81,7 +81,7 @@ const COLLECTION = [{
 
 {
     name: 'OG',
-    logo: 'https://liquipedia.net/commons/images/thumb/7/70/OG_RB_allmode.png/600px-OG_RB_allmode.png',
+    logo: './logo/600px-OG_RB_allmode.png',
     country: 'Europe',
     T1trophies: 1,
     coach: 'Casper "ruggah" Due',
