@@ -90,17 +90,17 @@ const COLLECTION = [{
 ]
 
 //Main div
-let div = document.createElement('div');
-div.id = 'container';
+let section = document.createElement('section');
+section.id = 'container';
 
-div.className = 'main';
-document.body.appendChild(div);
-document.body.insertBefore(div, demo);
+section.className = 'main';
+document.body.appendChild(section);
+document.body.insertBefore(section, demo);
 
 //Cards
 for (let i of COLLECTION) {
 
-    let div = document.createElement('div');
+    let div = document.createElement('section');
     div.setAttribute("class", "cards")
     document.getElementById('container').appendChild(div);
 
